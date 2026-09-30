@@ -6,6 +6,8 @@ An end-to-end Machine Learning project that predicts a vehicle's **Highway Fuel 
 
 The goal of this project is to build a regression model that can estimate a vehicle's **highway fuel economy (MPG)** from its available specifications.
 
+Note: MPG (Miles Per Gallon) is the fuel-efficiency unit used in the dataset; in India, fuel efficiency is commonly expressed as km/L.
+
 ## 📊 Dataset
 
 * **Rows:** 33,442
